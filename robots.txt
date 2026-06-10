@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://blog5.starrope2023.com/sitemap.xml
+
+#DaumWebMasterTool:156d65a204d1412412d8543d7704e28a71f6d68787945323550b643f5824884c:Z1sDHiFp/naRimWdsgS5Tg==
