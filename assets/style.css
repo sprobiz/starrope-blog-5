@@ -317,6 +317,7 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: 1fr 340px;
   gap: 40px;
   margin-bottom: 80px;
+  align-items: start;
 }
 
 /* --- BLOG GRID --- */
@@ -344,7 +345,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-card-thumb {
-  height: 200px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
   background-position: center;
   background-size: cover;
   background-color: var(--bg-ad);
@@ -835,7 +837,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* --- HIGH CONVERTING REDIRECT CTA BUTTONS --- */
 .redirect-box {
-  background: linear-gradient(135deg, hsla(var(--hue), 85%, 32%, 0.04), hsla(120, 50%, 45%, 0.04));
+  background: linear-gradient(135deg, hsla(var(--hue), 80%, 32%, 0.04), hsla(120, 50%, 45%, 0.04));
   border: 2px dashed var(--border-light);
   border-radius: var(--border-radius-md);
   padding: 32px;
@@ -848,7 +850,7 @@ h1, h2, h3, h4, h5, h6 {
 .redirect-box:hover {
   border-color: var(--primary-color);
   box-shadow: var(--shadow-md);
-  background: linear-gradient(135deg, hsla(var(--hue), 85%, 32%, 0.08), hsla(120, 50%, 45%, 0.08));
+  background: linear-gradient(135deg, hsla(var(--hue), 80%, 32%, 0.08), hsla(120, 50%, 45%, 0.08));
 }
 
 .redirect-title {
