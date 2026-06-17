@@ -149,6 +149,16 @@
       "date_display": "Jun 20, 2026 (10:00 AM)",
       "publish_date": "2026-06-20",
       "publish_time": "10:00"
+    },
+    {
+      "filename": "nhis-health-check-2026.html",
+      "image_url": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=800&q=80",
+      "tag": "생활건강",
+      "date_display": "Jun 18, 2026 (08:20 AM)",
+      "title": "국민건강보험공단 국가건강검진 대상자 조회 및 무료 검사 항목 확인 방법",
+      "description": "국민건강보험공단에서 지원하는 올해 국가건강검진 대상자 조회 요령과 출생연도별 무료 검진 항목 및 주의사항을 알기 쉽게 가이드합니다.",
+      "publish_date": "2026-06-18",
+      "publish_time": "08:20"
     }
   ]
 }
