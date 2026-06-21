@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "vitamin-d-deficiency-senior-osteoporosis.html",
+      "image_url": "https://images.unsplash.com/photo-1559839697-2a32547dae82?auto=format&fit=crop&w=800&q=80",
+      "tag": "건강식품 영양분석",
+      "date_display": "2026. 06. 20",
+      "title": "비타민D 결핍 증상 7가지와 시니어 골다공증 예방 가이드",
+      "description": "시니어에게 흔한 비타민D 결핍 증상 7가지와 골다공증 예방을 위한 비타민D3 + K2 올바른 복용법, 음식 섭취 방법을 총정리했습니다.",
+      "publish_date": "2026-06-20",
+      "publish_time": "12:33"
+    },
+    {
       "filename": "senior-joint-health-supplements.html",
       "image_url": "https://images.unsplash.com/photo-1553455860-2fa544e14141?auto=format&fit=crop&w=800&q=80",
       "tag": "건강식품 영양분석",
@@ -148,6 +158,56 @@
       "tag": "시니어복지",
       "date_display": "Jun 20, 2026 (10:00 AM)",
       "publish_date": "2026-06-20",
+      "publish_time": "10:00"
+    },
+    {
+      "filename": "nhis-health-check-2026.html",
+      "image_url": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=800&q=80",
+      "tag": "생활건강",
+      "date_display": "Jun 18, 2026 (08:20 AM)",
+      "title": "국민건강보험공단 국가건강검진 대상자 조회 및 무료 검사 항목 확인 방법",
+      "description": "국민건강보험공단에서 지원하는 올해 국가건강검진 대상자 조회 요령과 출생연도별 무료 검진 항목 및 주의사항을 알기 쉽게 가이드합니다.",
+      "publish_date": "2026-06-18",
+      "publish_time": "08:20"
+    },
+    {
+      "filename": "chondroitin-joint-health-seniors.html",
+      "image_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+      "tag": "생활건강",
+      "date_display": "2026. 06. 18",
+      "title": "시니어 관절 건강을 위한 콘드로이친 친환경 원료 고르는 법과 섭취 주의사항",
+      "description": "노년기 무릎 및 관절 연골 관리에 효과적인 콘드로이친의 효능, 고품질 친환경 원료 구분 요령, 그리고 부작용 없는 안전한 복용 방법을 쉽고 자세하게 안내합니다.",
+      "publish_date": "2026-06-18",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "phosphatidylserine-brain-health-seniors.html",
+      "image_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+      "tag": "생활건강",
+      "date_display": "06. 19",
+      "title": "시니어 뇌 건강을 위한 포스파티딜세린(PS) 효능 및 부작용 없는 섭취 가이드",
+      "description": "노년기 기억력 감퇴와 치매 예방의 핵심 성분으로 주목받는 포스파티딜세린(Phosphatidylserine)의 과학적 효능, 식약처 인증 기준, 그리고 안전한 복용 요령을 친절하게 가이드합니다.",
+      "publish_date": "2026-06-19",
+      "publish_time": "08:30"
+    },
+    {
+      "filename": "protein-supplements-sarcopenia-guide.html",
+      "image_url": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=800&q=80",
+      "tag": "건강식품",
+      "date_display": "Jun 21, 2026 (10:00 AM)",
+      "title": "중장년층 근감소증 예방을 위한 단백질 보충제 선택 가이드",
+      "description": "노년기 근력 저하와 근감소증을 예방하기 위한 단백질 섭취의 중요성, 동물성 및 식물성 단백질 보충제의 차이점과 올바른 섭취 방법을 알아봅니다.",
+      "publish_date": "2026-06-21",
+      "publish_time": "10:00"
+    },
+    {
+      "filename": "msm-boswellia-osteoarthritis-relief.html",
+      "image_url": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?auto=format&fit=crop&w=800&q=80",
+      "tag": "건강정보",
+      "date_display": "Jun 22, 2026 (10:00 AM)",
+      "title": "퇴행성 관절염 완화를 위한 식이유황(MSM)과 보스웰리아 효능",
+      "description": "무릎과 연골 건강을 지키는 핵심 영양소인 MSM과 보스웰리아의 항염 작용, 올바른 복용법 및 시너지 효과를 분석합니다.",
+      "publish_date": "2026-06-22",
       "publish_time": "10:00"
     }
   ]
